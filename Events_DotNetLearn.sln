@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events_DotNetLearn", "Events_DotNetLearn\Events_DotNetLearn.csproj", "{A614D63E-4EE9-4D16-8AF4-283AD1BB6D0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A614D63E-4EE9-4D16-8AF4-283AD1BB6D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A614D63E-4EE9-4D16-8AF4-283AD1BB6D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A614D63E-4EE9-4D16-8AF4-283AD1BB6D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A614D63E-4EE9-4D16-8AF4-283AD1BB6D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FC26619-CD22-41DA-8C23-89D1CDC83E59}
+	EndGlobalSection
+EndGlobal
